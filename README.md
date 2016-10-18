@@ -1,2 +1,1 @@
-# lectureExercises
-Live Coding Examples
+#Beispiele der Vorlesung
