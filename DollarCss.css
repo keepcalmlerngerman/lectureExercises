@@ -1,0 +1,6 @@
+#table tr:nth-child(2n){
+  background: red
+}
+h1{
+  color: green
+}
